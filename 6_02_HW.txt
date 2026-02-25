@@ -1,0 +1,4 @@
+This is the text file
+For the 6_02 homework
+This is the longest line in the file
+Goodbye
